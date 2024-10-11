@@ -1,6 +1,5 @@
 # Smart-Energy-Meter
-Smart Energy Meter
-Overview
+
 This project focuses on the design and development of a Smart Energy Meter, integrating modern microcontroller technology and IoT capabilities to provide real-time energy consumption data. The smart meter is designed to monitor electrical usage and provide consumers with daily energy consumption reports via SMS, helping to promote energy efficiency and transparency.
 
 Features
